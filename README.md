@@ -26,9 +26,8 @@ distribution engineering
 ### stack
 
 ```
-paperclip · openclaw · claude code
-solidity · python · typescript
-bnb chain · solana
+agentic · openclaw · claude code
+sql · python · web3 
 ```
 
 </td></tr>
